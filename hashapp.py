@@ -2,7 +2,7 @@ from pathlib import Path
 import click, hashlib
 
 
-__VERSION__ = "1.0"
+__VERSION__ = "1.0.0"
 
 
 # Gets the content and hash function from get_hash() and returns to it hash retrieved with the selected hash function
