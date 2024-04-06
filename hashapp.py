@@ -79,7 +79,7 @@ def verify(file, hash_func, hash):
 # This function prints out the installed HashApp version
 @click.command(name="version", help="Prints the installed HashApp version")
 def version():
-    click.secho(f"HashApp {__VERSION__}", fg="yellow")
+    click.echo(f"HashApp {__VERSION__}")
 
 
 hashapp.add_command(get_hash)
