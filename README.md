@@ -4,7 +4,7 @@ An utitlity written in python that can check and verify hash of a file
 # Installation Instructions
 
 ## <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" alt="drawing" width="20" height="20"/> Windows
-- Download the ZIP file for Windows from [Releases](https://github.com/NabilSadik2003/hashapp/releases/latest](https://github.com/NabilSadik2003/hashapp/releases).
+- Download the ZIP file for Windows from [Releases](https://github.com/NabilSadik2003/hashapp/releases).
 - Extract the ZIP file.
 - Copy `hashapp.exe` to your desired location.
 - Add the `hashapp.exe` location to your `PATH` environment variable. If you don't know how do that, check this [link](https://www.google.com/search?q=windows+add+path+to+path+environment+variable).
